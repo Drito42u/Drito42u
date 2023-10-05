@@ -9,4 +9,4 @@ Aqui estão algumas idéias para você começar:
 - ⚡ Curiosidade: sou de PR-Curitiba
 -->
 
-![Snake animation](https://github.com/Drito42u/Drito42u/blob/output/github-contribution-grid-snake.svg)
+
