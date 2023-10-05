@@ -1,16 +1,10 @@
-### Hi there 👋
+# Olá, me chamo victor ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**Drito42u/Drito42u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui estão algumas idéias para você começar:
 
-Here are some ideas to get you started:
-
-- 🔭 estou atualmente estudando na Escola Narciso Mendes
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente estou estudando na Escola Narciso Mendes
+- 🌱 Atualmente estou aprendendo programação
+- 📫 Como entrar em contato comigo: <a href="https://instagram.com/victorsant.v" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+- ⚡ Curiosidade: sou de PR-Curitiba
 -->
