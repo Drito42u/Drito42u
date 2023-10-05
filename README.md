@@ -8,3 +8,5 @@ Aqui estão algumas idéias para você começar:
 - 📫 Como entrar em contato comigo: <a href="https://instagram.com/victorsant.v" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 - ⚡ Curiosidade: sou de PR-Curitiba
 -->
+
+![Snake animation](https://github.com/Drito42u/Drito42u/blob/output/github-contribution-grid-snake.svg)
