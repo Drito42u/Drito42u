@@ -1,7 +1,6 @@
 # Olá, me chamo victor ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Aqui estão algumas idéias para você começar:
 
 - 🔭 Atualmente estou estudando na Escola Narciso Mendes
 - 🌱 Atualmente estou aprendendo programação
